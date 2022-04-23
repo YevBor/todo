@@ -1,0 +1,10 @@
+.card{
+  background: gray;
+  list-style-type: none;
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+.list{
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
